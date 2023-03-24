@@ -1,0 +1,45 @@
+.main-container {
+    outline-style: dotted;
+    margin: 3.125em 12.5em;
+    padding: .625em 0;
+}
+
+button {
+    background-color: grey;
+    border-radius: 1.25em;
+    padding: .2em .5em;
+}
+
+input {
+    background: skyblue;
+    border: none;
+    border-bottom: dotted;
+    margin-right: 2em;
+    padding: .2em;
+}
+
+.card {
+    border: 1px solid;
+    background-color: gainsboro;
+    border-radius: 10px;
+    margin: 1.875em 18.75em;
+    padding: 1.25em;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+td {
+    border-bottom: dotted;
+    padding: 1.25em;
+}
+
+.first {
+    margin-right: .625em;
+}
+
+.second {
+    margin-left: .625em;
+}
